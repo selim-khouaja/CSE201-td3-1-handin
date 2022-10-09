@@ -36,6 +36,7 @@ int main(int argc, char* argv[])
 
   {
         std::cout << "A better, new initial message" << std::endl;
+        std::cout << "This is the new change made at exercise 7.2" << std::endl;
   }
   // END OF THE CUSTOM CODE SECTION
 #else
